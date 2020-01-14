@@ -1,0 +1,48 @@
+#Unigraph
+SIZE 1318 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+28
+"<E>" -1 363 1 4 
+"" 1141 285 0 
+"<N+subst>" 164 314 1 3 
+"<NB>+<E>" 265 313 2 6 10 
+"<E>+posologie" 34 305 1 5 
+"$*" 119 269 1 2 
+"<NB>" 250 137 1 7 
+"mg+ml+ui+g+UI+µg+u+MG+ML+ug" 315 138 2 8 10 
+"\/" 365 114 2 9 16 
+"<NB>" 392 143 1 16 
+"\:+<E>" 505 311 1 11 
+"<NB>" 616 187 3 12 22 18 
+"cp+fois+sachet+mg+unités+goutte+flacon" 786 121 2 21 18 
+"/le nom" 226 357 0 
+"/le dosage" 345 35 0 
+"/la dose" 797 30 0 
+"m2+mg+ml+ui+g+l+µg+u+MG+ML+ug" 459 143 1 10 
+"<MOT>+<NB>" 950 385 2 1 11 
+"<PREP>+<DET>+<PREDET>+<E>" 649 386 1 27 
+"/le tythme" 794 446 0 
+"jour+j" 987 207 2 18 1 
+"par+\/+x" 861 195 2 20 25 
+"\/" 685 145 1 23 
+"<NB>" 718 187 1 12 
+"<PREP>+<DET>+<PREDET>" 850 385 1 17 
+"<NB>" 899 134 1 26 
+"\/" 960 134 1 20 
+"<MOT>+<NB>+<E>" 762 388 1 24 
